@@ -1,5 +1,8 @@
 # Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### Research Intern at DST-PURSE and AI/ML enthusiast.
+#### My skillset comprises of Python, OpenCV, and Tensorflow. I have spent my time learning new skills and perfecting the ones I have. 
+
+#### I am a pre-final year student at SRMIST KTR, with a 9.1 GPA.
 
 
 
