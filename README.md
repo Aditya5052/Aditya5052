@@ -6,9 +6,9 @@
 
 ## 🌐 Socials:
 <div align="center">  
-  <a href="https://www.linkedin.com/in/shreyash-mishra/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/></a>
-  <a href="mailto:shreyashm1601@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a>
-  <a href="https://drive.google.com/file/d/1Gn8y_KhZTBMMXuR-TUnWmyfCT4cqLhHw/view?usp=sharing"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png?v8" width="5%"/></a>
+  <a href="https://www.linkedin.com/in/adityam2002/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/></a>
+  <a href="mailto:adityam120502@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a>
+  <a href="https://drive.google.com/file/d/1GTRn8y_KhZTBMMXuR-TUnWmyfCT4cqLhHw/view?usp=sharing"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png?v8" width="5%"/></a>
 </div>
 
 # 💻 Tech Stack:
